@@ -1,5 +1,5 @@
-## Next + Firebase Blog app 🔥
+## Bloggy the most poweful blog app 🔥
 
-This Repo has code for my Next js + firebase course on Youtube
-Link - https://youtu.be/m9tPoGa_8p8
+#copy the code and start with
+## npm install && npm run dev
 
